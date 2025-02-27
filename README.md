@@ -13,7 +13,12 @@ I'm a **bioinformatics researcher and software developer** with expertise in **g
 - **Programming languages**: Python, R, Bash  
 - **Bioinformatics Tools**: Biopython, ggplot2, ggtree, Pandas, Bowtie2, Clustal Omega, MEGA, Cytoscape,
 - **Machine Learning**: Scikit-learn, Network Analysis, Clustering, Feature Selection  
-- **Statistical Analysis**: Statistical Modeling, Hypothesis Testing, Correlation Analysis 
+- **Statistical Analysis**: Statistical Modeling, Hypothesis Testing, Correlation Analysis
+
+## 📈 GitHub Stats  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)  
 
 ## 📫 Connect with Me  
 - 📧 Email: caladovinicius@gmail.com
