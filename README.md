@@ -11,9 +11,9 @@ I'm a **data scientist and software developer** with expertise in **genomics, ph
 
 ## 🚀 Technical Skills  
 - **Programming languages**: Python, R, Bash  
-- **Bioinformatics Tools**: Biopython, ggplot2, ggtree, Pandas, Bowtie2, Clustal Omega, MEGA, Cytoscape,
-- **Machine Learning**: Scikit-learn, Network Analysis, Clustering, Feature Selection  
-- **Statistical Analysis**: Statistical Modeling, Hypothesis Testing, Correlation Analysis
+- **Bioinformatics Tools**: Biopython, ggplot2, ggtree, Pandas, Bowtie2, Clustal Omega, MEGA, Cytoscape
+- **Machine Learning**: Scikit-learn, Network Analysis, Clustering, Feature Selection, SHAP  
+- **Statistical Analysis**: Generalized mixed linear models, Hypothesis Testing, Correlation Analysis
 
 ## 📫 Connect with Me  
 - 📧 Email: caladovinicius@gmail.com
