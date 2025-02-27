@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinicius Calado
 
-I'm a **bioinformatics researcher and software developer** with expertise in **genomics, phylogenetics, machine learning, and pipeline automation**. My work focuses on developing efficient computational workflows for analyzing sequencing data and using machine learning to generate accurate predictions for healthcare. 
+I'm a **data scientist and software developer** with expertise in **genomics, phylogenetics, machine learning, and pipeline automation**. My work focuses on developing efficient computational workflows for analyzing sequencing data and using machine learning to generate accurate predictions for healthcare. 
 
 ## 🔬 Research Interests  
 - **Comparative Genomics & Phylogenetics** 🧬  
@@ -14,6 +14,12 @@ I'm a **bioinformatics researcher and software developer** with expertise in **g
 - **Bioinformatics Tools**: Biopython, ggplot2, ggtree, Pandas, Bowtie2, Clustal Omega, MEGA, Cytoscape,
 - **Machine Learning**: Scikit-learn, Network Analysis, Clustering, Feature Selection  
 - **Statistical Analysis**: Statistical Modeling, Hypothesis Testing, Correlation Analysis
+
+- ## 📈 GitHub Stats  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&count_private=true&include_all_commits=true)  
+
 
 ## 📫 Connect with Me  
 - 📧 Email: caladovinicius@gmail.com
