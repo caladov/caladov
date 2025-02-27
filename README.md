@@ -15,11 +15,6 @@ I'm a **bioinformatics researcher and software developer** with expertise in **g
 - **Machine Learning**: Scikit-learn, Network Analysis, Clustering, Feature Selection  
 - **Statistical Analysis**: Statistical Modeling, Hypothesis Testing, Correlation Analysis
 
-## 📈 GitHub Stats  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)  
-
 ## 📫 Connect with Me  
 - 📧 Email: caladovinicius@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/vinicius-calado-39178aab/](https://www.linkedin.com/in/vinicius-calado-39178aab/)  
