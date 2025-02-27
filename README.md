@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vinicius Calado
+# Hi, I'm Vinicius Calado
 
 I'm a **data scientist and software developer** with expertise in **genomics, phylogenetics, machine learning, and pipeline automation**. My work focuses on developing efficient computational workflows for analyzing sequencing data and using machine learning to generate accurate predictions for healthcare. 
 
