@@ -22,6 +22,11 @@ I'm a **data scientist and software developer** with expertise in **genomics, ph
 - 🔗 LinkedIn: [linkedin.com/in/vinicius-calado-39178aab/](https://www.linkedin.com/in/vinicius-calado-39178aab/)  
 - 📝 ResearchGate: [researchgate.net/profile/Vinicius-Calado-Nogueira-De-Moura?ev=hdr_xprf](https://www.researchgate.net/profile/Vinicius-Calado-Nogueira-De-Moura?ev=hdr_xprf)  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caladov&show_icons=true&locale=en&layout=compact" alt="caladov" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caladov&show_icons=true&locale=en" alt="caladov" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caladov&" alt="caladov" /></p>
 
 <!--
 **caladov/caladov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
